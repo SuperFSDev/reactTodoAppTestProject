@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.filterContainer {
+  display: flex;
+  width: full;
+  justify-content: space-around;
+}
+
+.container {
+  margin-top: 30px;
+  width: full;
+}
